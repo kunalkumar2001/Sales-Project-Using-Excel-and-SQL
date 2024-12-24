@@ -6,19 +6,19 @@ This repository contains all the resources, data, and analysis for the Pizza Sal
 ### Files Included:
 <span style="background-color: #FFFF00">
 
-1. `**pizza_sales.csv**` 
+1. **`pizza_sales.csv`**
    - The raw dataset contains pizza sales data.
 
-2. `**Pizza_Sales_Final.xlsx**`  
+2. **`Pizza_Sales_Final.xlsx`** 
    - Processed data with summary reports, charts, and pivot tables for detailed analysis in Excel.
 
-3. `**PIZZA SALES SQL QUERIES 2.docx**`  
+3. **`PIZZA SALES SQL QUERIES 2.docx`**  
    - A document containing SQL queries used to analyze the pizza sales dataset, including tasks such as:
      - Top-selling pizzas  
      - Peak sales periods  
      - Branch performance analysis  
 
-4. `**Final.pptx**`  
+4. **`Final.pptx`**  
    - A presentation summarizing the analysis, insights, and recommendations based on the project findings. </span>
 
 

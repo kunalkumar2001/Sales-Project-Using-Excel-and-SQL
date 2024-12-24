@@ -31,6 +31,17 @@ This repository contains all the resources, data, and analysis for the Pizza Sal
 ----
 ## 📊 Key Insights
 - **Best-selling pizzas**: Identified top-performing items by sales.
-- Peak times**: Analyzed sales patterns to determine peak hours/days for business.
-Branch performance: Compared branch sales to identify high and low performers.
+- **Peak times**: Analyzed sales patterns to determine peak hours/days for business.
+- **Branch performance**: Compared branch sales to identify high and low performers.
+
+----
+## 🌟 How to Use
+1. Review the `pizza_sales.csv` file for raw data.
+2. Open `Pizza_Sales_Final.xlsx` to explore detailed analysis.
+3. Use the SQL queries in `PIZZA SALES SQL QUERIES 2.docx` to perform your own analysis.
+4. Check out the `Final.pptx` file for a high-level overview of the project findings.
+
+----
+## 📝 Acknowledgments
+This project was guided by Ayushi Jain and is part of my journey to becoming a proficient data analyst
 
